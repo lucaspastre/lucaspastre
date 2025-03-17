@@ -5,11 +5,11 @@
 </div>
 
 ---
-### :man_technologist: About Me :
+### About Me :
 
-:telescope: I'm a scholarship holder at PET Computação UFSC, involved in offering academic assistance and working on projects that benefit the community.
+:telescope: I'm a scholarship holder at [PET Computação](https://petcomputacao.ufsc.br/), involved in offering academic assistance and working on projects that benefit the community.
 
-:seedling: I’m a Computer Science student at [UFSC](https://cco.ufsc.br/)., currently in my fourth semester.
+:seedling: I’m a Computer Science student at [UFSC](https://cco.ufsc.br/), currently in my fourth semester.
 
 :zap: I’m currently studying software development and am also engaged in a research project in the field of software engineering.
 
