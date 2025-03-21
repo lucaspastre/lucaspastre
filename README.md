@@ -11,8 +11,6 @@
 
 :seedling: I’m a Computer Science student at [UFSC](https://cco.ufsc.br/), currently in my fourth semester.
 
-:zap: I’m currently studying software development and am also engaged in a research project in the field of software engineering.
-
 ---
 ### Languages and Tools:
 
