@@ -7,8 +7,6 @@
 ---
 ### About Me :
 
-:telescope: I'm a scholarship holder at [PET Computação](https://petcomputacao.ufsc.br/), involved in offering academic assistance and working on projects that benefit the community.
-
 :seedling: I’m a Computer Science student at [UFSC](https://cco.ufsc.br/), currently in my fourth semester.
 
 ---
