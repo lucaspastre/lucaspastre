@@ -5,20 +5,8 @@
 </div>
 
 ---
-### About Me :
-
-:seedling: I’m a Computer Science student at [UFSC](https://cco.ufsc.br/), currently in my fourth semester.
-
----
 ### Languages and Tools:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-</div>
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,js,mysql,linux,git,github)](https://skillicons.dev)
 
 ---
 
